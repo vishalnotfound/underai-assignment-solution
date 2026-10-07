@@ -171,7 +171,7 @@ or rule changes after the first real run.
 - **Dependencies:** Python 3.12.0, standard library only, on Windows 11
   (10.0.26200).
 - **Representative run** (`results/decisions.jsonl`): 15 tickets, 14,033
-  prompt + 705 completion tokens, 17.5 s sequential. That is about $0.0067 at
+  prompt + 705 completion tokens, 21.68 s sequential. That is about $0.0067 at
   gpt-4.1-mini list prices of $0.40 per 1M input and $1.60 per 1M output
   tokens (check current pricing).
 - **Total spend for this report:** all runs, including 3 repeats of both
